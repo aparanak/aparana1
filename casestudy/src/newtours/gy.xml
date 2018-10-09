@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="my sample">
+<test name="google">
+<classes>
+
+<class name="newtours.google">
+</class>
+</classes>
+</test>
+<test name="yahoo">
+<classes>
+
+<class name="newtours.yahoo">
+</class>
+</classes>
+</test>
+
+</suite>
